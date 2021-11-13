@@ -4,7 +4,7 @@ import time
 
 print("""
 script by @zefil02
-my telegram @zefilCantor"""
+my telegram @zefilCantor""")
 
 
 email= "почта от аккаунта"
